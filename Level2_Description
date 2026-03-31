@@ -1,0 +1,31 @@
+LEVEL 2 — Complete/Delete Tasks
+
+
+Features
+* Mark Task as Completed
+* Delete Task
+* Task Status Display
+
+
+1️. Mark Task as Completed
+Tracks finished tasks.
+What it does:
+* Uses a flag (true/false)
+* Marks task as done
+
+
+2️. Delete Task
+Removes unwanted tasks.
+What it does:
+* Deletes task from list
+* Updates remaining tasks
+
+
+3️. Task Status Display
+Shows which tasks are done or pending.
+What it does:
+* Prints (Done) beside completed tasks
+
+
+Summary
+Adds task lifecycle management
