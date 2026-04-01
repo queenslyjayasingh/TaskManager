@@ -1,0 +1,32 @@
+LEVEL 3 — Priority System
+
+Features=
+* Task Priority
+* Structured Data (Struct)
+* Priority Display
+
+
+1️. Task Priority
+Assigns importance to tasks.
+What it does:
+* Each task gets a priority number
+* Helps identify urgent tasks
+
+
+2️. Structured Data (Struct)
+Organizes task information.
+What it does:
+* Stores task name + priority together
+* Improves data handling
+
+
+3️. Priority Display
+Shows importance level.
+What it does:
+
+* Prints task with priority
+* Helps in planning work
+
+
+Summary
+Adds intelligence + organization
