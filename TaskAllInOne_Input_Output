@@ -1,0 +1,35 @@
+Input
+1
+Study
+1
+1
+Code
+2
+2
+3
+0
+2
+4
+
+
+Output
+==== TASK MANAGER ====
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Exit
+
+Enter choice: 1
+Enter task name: Study
+Enter priority: 1
+Task Added
+
+Enter choice: 2
+0. Study | Priority: 1
+
+Enter choice: 3
+Enter task index: 0
+Task marked as done
+
+Enter choice: 2
+0. Study | Priority: 1 (Done)
